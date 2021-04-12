@@ -1,0 +1,34 @@
+Motivat.ion: starting up processes... FAILED
+Error (Line 1): Not enough FAC (Focus and Commitment) allocated... retrying...
+FAC is at 0%. Loading...
+____________________________________________________
+Booting up watch_youtube.py...
+Pulling up favorite channels...
+Selecting vi ^d
+Process terminated.
+Attempting to restart Motivat.ion...
+Child process has spawned || check_email.py started...
+Child process has spawned || check_facebook attempted, process already in progress...
+check_facebook queued...
+>check FAC
+FAC | 0.0%         0.001 M/ps
+^d
+all processes terminated.
+
+>turnof
+-bash: turnof: command not found
+>turnoff
+
+phone has been deactivated.
+
+>check FAC
+FAC | 100.0%         0.000 M/ps Done
+
+>celebrate
+^    ^
+o    o
+  n
+-____-
+
+>Motivat.ion
+starting... *
